@@ -1,5 +1,5 @@
 public class BinarySearch {
-
+    //ciao
     int binarySearch(int myArray[], int numToFind, int left, int right){
             if (right >= left) {
             int mid = left + (right - left) / 2;
